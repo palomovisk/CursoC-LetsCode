@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "cursoc#ada/1.0.0": {
+        "runtime": {
+          "cursoc#ada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cursoc#ada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

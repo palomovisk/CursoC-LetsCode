@@ -1,0 +1,1 @@
+Esse repositório foi criado para as Aulas e exercícios do Curso de Introdução a C# realizado pela Lets Code e pela sinquia

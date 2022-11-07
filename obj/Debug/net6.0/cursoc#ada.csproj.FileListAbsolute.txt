@@ -1,0 +1,15 @@
+C:\Users\palom\Documents\cursoc#ada\bin\Debug\net6.0\cursoc#ada.exe
+C:\Users\palom\Documents\cursoc#ada\bin\Debug\net6.0\cursoc#ada.deps.json
+C:\Users\palom\Documents\cursoc#ada\bin\Debug\net6.0\cursoc#ada.runtimeconfig.json
+C:\Users\palom\Documents\cursoc#ada\bin\Debug\net6.0\cursoc#ada.dll
+C:\Users\palom\Documents\cursoc#ada\bin\Debug\net6.0\cursoc#ada.pdb
+C:\Users\palom\Documents\cursoc#ada\obj\Debug\net6.0\cursoc#ada.csproj.AssemblyReference.cache
+C:\Users\palom\Documents\cursoc#ada\obj\Debug\net6.0\cursoc#ada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palom\Documents\cursoc#ada\obj\Debug\net6.0\cursoc#ada.AssemblyInfoInputs.cache
+C:\Users\palom\Documents\cursoc#ada\obj\Debug\net6.0\cursoc#ada.AssemblyInfo.cs
+C:\Users\palom\Documents\cursoc#ada\obj\Debug\net6.0\cursoc#ada.csproj.CoreCompileInputs.cache
+C:\Users\palom\Documents\cursoc#ada\obj\Debug\net6.0\cursoc#ada.dll
+C:\Users\palom\Documents\cursoc#ada\obj\Debug\net6.0\refint\cursoc#ada.dll
+C:\Users\palom\Documents\cursoc#ada\obj\Debug\net6.0\cursoc#ada.pdb
+C:\Users\palom\Documents\cursoc#ada\obj\Debug\net6.0\cursoc#ada.genruntimeconfig.cache
+C:\Users\palom\Documents\cursoc#ada\obj\Debug\net6.0\ref\cursoc#ada.dll
